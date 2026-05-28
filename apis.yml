@@ -1,0 +1,32 @@
+aid: serialif-color
+name: Serialif Color
+description: "Color conversion, complementary, grayscale and contrasted text"
+url: https://color.serialif.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Serialif Color
+    description: "Color conversion, complementary, grayscale and contrasted text"
+    humanURL: https://color.serialif.com/
+    baseURL: https://color.serialif.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://color.serialif.com/
+common:
+  - type: Website
+    url: https://color.serialif.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
