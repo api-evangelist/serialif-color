@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://color.serialif.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/serialif-color-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/serialif-color-domain-security.yml
   - type: Website
     url: https://color.serialif.com/
   - type: PublicAPIsListing
