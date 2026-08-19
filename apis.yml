@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/serialif-c
 name: Serialif Color
 description: "Color conversion, complementary, grayscale and contrasted text"
 url: https://color.serialif.com/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
