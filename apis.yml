@@ -39,7 +39,6 @@ apis:
   - name: Serialif Color
     description: "Color conversion, complementary, grayscale and contrasted text"
     humanURL: https://color.serialif.com/
-    baseURL: https://color.serialif.com/
     tags:
       - Development
     properties:
